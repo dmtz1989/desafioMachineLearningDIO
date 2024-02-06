@@ -1,0 +1,21 @@
+{
+  "Inputs": {
+    "data": [
+      {
+        "day": 20,
+        "mnth": 10,
+        "year": 2019,
+        "season": 3,
+        "holiday": 3,
+        "weekday": 5,
+        "workingday": 1,
+        "weathersit": 2,
+        "temp": 0.3,
+        "atemp": 0.5,
+        "hum": 0.4,
+        "windspeed": 1.0
+      }
+    ]
+  },
+  "GlobalParameters": 2.0
+}
